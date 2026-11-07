@@ -21,4 +21,4 @@ Open `Assets/Scenes/SampleScene.unity`, press Play, and click inside the Game vi
 - Sound effects (CC0) by RyanKingArt on Freesound: [Laser Sword Turn On 1](https://freesound.org/people/RyanKingArt/sounds/591431/), [Laser Sword Turn Off 1](https://freesound.org/people/RyanKingArt/sounds/591433/)
 
 ## Video
-_TODO: add link to demo video here._
+https://youtu.be/BPGBH2anLk0
